@@ -17,7 +17,8 @@
     height: fit-content;
     font-size: 50px;
     font-weight: 700;
-    align-self: center;
+    position: relative;
+    left: 40%;
 }
 .form1{
     border:1px solid rgb(177, 177, 177);
@@ -47,6 +48,4 @@ ul{
 }
 .addTask{
     font-size: 25px;
-    
-
 }
