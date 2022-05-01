@@ -33,11 +33,11 @@
 .container{
     font-size: 20px;
 }
-.list-group-item{
+/* .list-group-item{
      display: flex;
      justify-content: space-between;
      
-}
+} */
 ul{
     margin:20px;
     padding-left: 0px;
