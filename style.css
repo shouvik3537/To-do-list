@@ -1,0 +1,25 @@
+*{
+    padding:0px;
+    margin:0px;
+    font-family:'Roboto', sans-serif;
+    box-sizing: border-box;
+}
+.maincontainer{
+    background-color: burlywood;
+    height: fit-content;
+    padding:25px;
+    
+}
+.header h1{
+    display: inline;
+    width: fit-content;
+    height: fit-content;
+    font-size: 50px;
+    font-weight: 700;
+    align-self: center;
+}
+.form1{
+    border:1px solid rgb(177, 177, 177);
+    padding:6px;
+    border-radius: 4px;
+}
