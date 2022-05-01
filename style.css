@@ -8,6 +8,7 @@
     background-color: burlywood;
     height: fit-content;
     padding:25px;
+    margin-bottom: 20px;
     
 }
 .header h1{
@@ -22,4 +23,30 @@
     border:1px solid rgb(177, 177, 177);
     padding:6px;
     border-radius: 4px;
+}
+#filter{
+    display: inline;
+    position: fixed;
+    right: 20px;
+}
+.container{
+    font-size: 20px;
+}
+.list-group-item{
+     display: flex;
+     justify-content: space-between;
+     
+}
+ul{
+    margin:20px;
+    padding-left: 0px;
+}
+.card-box{
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+}
+.addTask{
+    font-size: 25px;
+    
+
 }
