@@ -19,7 +19,7 @@ function addItems(e){
     li.className="list-group-item";
     li.appendChild(document.createTextNode(text));
     let deletebtn = document.createElement('button');
-    deletebtn.className="btn btn-danger btn-sm right delete";
+    deletebtn.className="btn btn-danger btn-sm float-end right delete";
     deletebtn.appendChild(document.createTextNode('x'));
     li.appendChild(deletebtn);
     itemLists.appendChild(li);
